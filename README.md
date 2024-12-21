@@ -16,8 +16,9 @@ This project demonstrates how to provision an AWS EC2 instance, set up a web ser
 ## Overview
 This project provides a step-by-step guide to:
 1. Provision an AWS EC2 instance.
-2. Deploy a static HTML page to the instance.
-3. Configure a domain with HTTPS for secure access.
+2. Set up a web server.
+3. Deploy a static HTML page to the instance.
+4. Configure a domain with HTTPS for secure access.
 
 ### Technologies Used:
 1. AWS EC2
