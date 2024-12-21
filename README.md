@@ -1,13 +1,16 @@
 # AWS EC2 Instance Provisioning, HTML Deployment, and HTTPS Configuration
+
 This project demonstrates how to provision an AWS EC2 instance, set up a web server, deploy an HTML page, and configure HTTPS using a custom domain name to obtain a free SSL certificate.
 
 ## Table of Contents
 1. [Overview](#overview)
 2. [Prerequisites](#prerequisites)
 3. [Steps](#steps)
-   - [Provision EC2 Instance](#provision-ec2-instance)
-   - [Deploy HTML Page](#deploy-html-page)
-   - [Configure HTTPS](#configure-https)
+   - [Provision EC2 Instance on AWS](#provision-ec2-instance-on-aws)
+   - [Web Server Setup](#web-server-setup)
+   - [Deploy the HTML Page](#deploy-the-html-page)
+   - [Configure HTTPS (Let’s Encrypt)](#configure-https-lets-encrypt)
+   - [Verify the HTTPS Setup](#verify-the-https-setup)
 4. [Contact](#contact)
 
 ## Overview
@@ -92,7 +95,7 @@ Run the following command and follow the prompts to complete the SSL setup:
 sudo certbot --apache
 ```
 
-#### iv. Verify the HTTPS setup:
+### 5. Verify the HTTPS Setup
 Visit [https://ajadi.server.aomine-projects.free.nf](https://ajadi.server.aomine-projects.free.nf) to confirm secure access.
 
 ## Contact
