@@ -1,4 +1,4 @@
-# AWS EC2 Instance Provisioning, HTML Deployment, and HTTPS Configuration
+# AWS EC2 Instance Provisioning, Setting up a Web Server, HTML Deployment, and HTTPS Configuration
 
 This project demonstrates how to provision an AWS EC2 instance, set up a web server, deploy an HTML page, and configure HTTPS using a custom domain name to obtain a free SSL certificate.
 
