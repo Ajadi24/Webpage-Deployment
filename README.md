@@ -6,11 +6,11 @@ This project demonstrates how to provision an AWS EC2 instance, set up a web ser
 1. [Overview](#overview)
 2. [Prerequisites](#prerequisites)
 3. [Steps](#steps)
-   - [Provision EC2 Instance on AWS](#provision-ec2-instance-on-aws)
-   - [Web Server Setup](#web-server-setup)
-   - [Deploy the HTML Page](#deploy-the-html-page)
-   - [Configure HTTPS (Let’s Encrypt)](#configure-https-lets-encrypt)
-   - [Verify the HTTPS Setup](#verify-the-https-setup)
+   i. [Provision EC2 Instance on AWS](#provision-ec2-instance-on-aws)
+   ii. [Web Server Setup](#web-server-setup)
+   iii. [Deploy the HTML Page](#deploy-the-html-page)
+   iv. [Configure HTTPS (Let’s Encrypt)](#configure-https-lets-encrypt)
+   v. [Verify the HTTPS Setup](#verify-the-https-setup)
 4. [Contact](#contact)
 
 ## Overview
