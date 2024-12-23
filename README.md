@@ -92,7 +92,7 @@ Before starting, ensure you have the following:
    sudo apt install certbot python3-certbot-apache -y
    ```
 
-4. Obtain a free SSL certificate by running the following command and following the prompts:
+4. Obtain a free SSL certificate by running the command below and the prompts that follows:
 
    ```bash
    sudo certbot --apache
